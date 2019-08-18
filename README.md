@@ -1,6 +1,5 @@
-# Tutorials-MachineLearningMastery
-My Online Course on Machine Learning Mastery
-
+# Tutorials - Machine Learning Mastery
+My Online Course on Machine Learning.
 
 This course teaches advanced theory including some mathematics with practical exercises to promote deeper understanding.
 
